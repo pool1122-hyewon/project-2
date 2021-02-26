@@ -172,6 +172,7 @@ header article p span img {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  z-index: 2;
 }
 
 .sub .sub_02 > div {
